@@ -27,3 +27,6 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ```
+## Contributor:
+Naser Suleiman ©2022 All Rights Reserved.
+- - -
